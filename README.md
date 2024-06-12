@@ -28,7 +28,7 @@ The prompt used to generate the additional fields was highly effective, thanks t
 This dataset can be used for various applications, including but not limited to:
 
 - Financial news analysis
-- Sentiment analysis
+- Abstractive/Exctractive Summarization tasks
 - Machine learning model training
 - Natural language processing tasks
 
